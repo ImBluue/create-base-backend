@@ -12,7 +12,6 @@
 
 3. Copy .env.template to .env and fill it
 
-
 ## Run
 
 1. Start Server
