@@ -1,0 +1,26 @@
+{
+  "name": "create-base-backend",
+  "version": "1.0.0",
+  "description": "CLI built using NodeJs to automate the process of creating a rest api backend using Express with a database",
+  "main": "src/index.js",
+  "bin": {
+    "create-base-backend": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImBluue/create-base-backend.git"
+  },
+  "homepage": "https://github.com/ImBluue/create-base-backend#readme",
+  "bugs": {
+    "url": "https://github.com/ImBluue/create-base-backend/issues"
+  },
+  "author": "Valentin Baud",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "inquirer": "^8.2.2"
+  }
+}
